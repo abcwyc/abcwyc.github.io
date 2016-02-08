@@ -47,7 +47,7 @@ JavaScript 运算符主要包括：
     alert(y);   //输出：2
 ```
 
-5. 逻辑运算符:&&/||/!
+5. 逻辑运算符: &&  ||  !
 6. 字符串连接运算符: 连接运算符 + 主要用于连接两个字符串或字符串变量。因此，在对字符串或字符串变量使用该运算符时，并不是对它们做加法计算。
 
 ## JavaScript 循环控制
@@ -138,4 +138,5 @@ function hello(){
 通常在函数定义中，为便于代码的可读性，一般不会使用 arguments 对象。在处理不定数目的参数，或者模拟函数重载时，可方便的使用 arguments 对象来处理。
 
 arguments.length 可以很方便的检测函数的参数个数。  
-> document.write(arguments.length);            
+> document.write(arguments.length);         
+
