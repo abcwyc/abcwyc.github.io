@@ -1,10 +1,7 @@
-# The Plain v1
+##About Me
 
-A minimalist Jekyll theme, made with passion for simplicity by [Heiswayi Nrird](http://heiswayi.github.io). More details about it [**here**](http://heiswayi.github.io/the-plain.html); **theme description**, **screenshot**, **install instructions** and **demo link**.
+### [Tony's Notes](http://abcwyc.github.io)           
 
-## Credits
+### [Instagram](https://www.instagram.com/youcaiwang/)
 
-This theme is based on Leonard Lamprecht's [Jekyll theme][1] and released under [MIT license](LICENSE).
-
-[1]: https://github.com/leo/leo.github.io
-# abcwyc.github.io
+### [Weibo](http://weibo.com/wycai)  
