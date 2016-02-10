@@ -3,28 +3,26 @@ layout: page
 title: About
 ---
 
-Hello.
-
 我叫Tony，是一位前端爱好者。目前在上海就职一家互联网公司，做这个Notes，主要是为了学习git的使用和积累前端经验，也希望能通过github这个平台结识一些前端朋友。
 
-### 联系我：
+**Link：**
 - [Github](https://github.com/abcwyc)
 - [Weibo](http://weibo.com/wycai)
 - [Instagram](https://www.instagram.com/youcaiwang/) 
 - abcwyc@gmail.com
 
-----
-### Book List
-#### 在读
+<div class="divider"></div>
 
+**Book List**  
+
+*在读*
 + [自控力](http://book.douban.com/subject/10786473/)
 + [黑客与画家](http://book.douban.com/subject/6021440/)
 + [金字塔原理](http://book.douban.com/subject/1020644/)
 + [创业维艰](http://book.douban.com/subject/26306686/)
 + [浪潮之巅](http://book.douban.com/subject/6709783/)
 
-
-#### 已读
+*已读*
 + [小狗钱钱](http://book.douban.com/subject/1095634/)
 + [拆掉思维的墙](http://book.douban.com/subject/4953695/)
 + [异类](http://book.douban.com/subject/25863621/)
